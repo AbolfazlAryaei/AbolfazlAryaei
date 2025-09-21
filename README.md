@@ -1,61 +1,49 @@
-# 👋 Hi, I'm Abolfazl Ariaei
-
-**Backend Developer | Node.js • NestJS • PostgreSQL**
+<h1 align="center">✨ Hi, I'm Abolfazl Ariaei ✨</h1>
+<h3 align="center">Backend Developer | Node.js • NestJS • PostgreSQL</h3>
 
 ---
 
 ## 🚀 About Me
-I’m a dedicated **backend developer** with a strong focus on building scalable and efficient backend systems.  
-Passionate about crafting solutions that ensure seamless data processing and optimal performance.  
-
-- 🛠 Specializing in **Node.js** & **NestJS** for server-side applications  
-- 🗄️ Experienced with **MySQL**, **MongoDB**, and **PostgreSQL**  
-- 🔗 Skilled in **RESTful API** & **GraphQL** design and integration  
-- ☁️ Hands-on with **AWS**, **Azure**, and **DigitalOcean**  
-- ⚙️ Enthusiastic about **CI/CD**, **Docker**, and **Kubernetes**  
+💻 Dedicated **backend developer** focused on scalable & efficient systems  
+🔗 Specialized in **RESTful APIs & GraphQL**  
+☁️ Experienced with **AWS | Azure | DigitalOcean**  
+⚙️ Passionate about **CI/CD, Docker & Kubernetes**
 
 ---
 
-## 🧑‍💻 Skills
-
-**Backend Development:** Node.js, NestJS, Express  
-**Database Management:** MySQL, MongoDB, PostgreSQL  
-**API Design:** RESTful API, GraphQL  
-**Cloud Services:** AWS, Azure, DigitalOcean  
-**DevOps:** CI/CD, Docker, Kubernetes  
-**Version Control:** Git, GitHub, GitLab  
-**Auth:** JWT, OAuth2  
-
----
-
-## 📈 Experience
-- Building scalable and maintainable backend architectures using modern frameworks.  
-- Designing and optimizing database schemas for efficiency.  
-- Integrating third-party APIs and services.  
-- Collaborating with frontend developers for seamless communication.  
-- Setting up **CI/CD pipelines** to automate deployment, testing, and monitoring.  
-
----
-
-## 💡 Projects
-I’ve worked on backend projects across **e-commerce, healthcare, and real-time applications**.  
-Enjoy solving complex problems and delivering solutions that are efficient & maintainable.  
-
-🔹 [Project 1](https://github.com/AbolfazlAriaei/PROJECT1) – Short description  
-🔹 [Project 2](https://github.com/AbolfazlAriaei/PROJECT2) – Short description  
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbolfazlAriaei&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlAriaei&layout=compact)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlAriaei&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlAriaei&layout=compact&theme=radical" alt="langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlAriaei&theme=dracula" alt="activity graph"/>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
-[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:yourmail@example.com)  
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-grey)](https://yourdomain.com)  
+## 🌟 Featured Projects
+- 🔹 [Project 1](https://github.com/AbolfazlAriaei/PROJECT1) — Short description  
+- 🔹 [Project 2](https://github.com/AbolfazlAriaei/PROJECT2) — Short description  
 
 ---
 
-✨ *Feel free to reach out if you’re interested in collaboration, consultancy, or just want to chat about exciting backend technologies!*  
+## 🤝 Connect with Me
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Portfolio-Website-grey?style=for-the-badge&logo=firefox&logoColor=white"></a>
+</p>
