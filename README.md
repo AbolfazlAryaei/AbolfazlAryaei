@@ -22,18 +22,12 @@
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
----
-
-## 🌟 Featured Projects
-- 🔹 [Project 1](https://github.com/AbolfazlAriaei/PROJECT1) — Short description  
-- 🔹 [Project 2](https://github.com/AbolfazlAriaei/PROJECT2) — Short description  
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
   <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Portfolio-Website-grey?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
